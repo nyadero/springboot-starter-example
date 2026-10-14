@@ -1,0 +1,3 @@
+com.enthuzd.config.HelloServiceAutoConfig
+com.enthuzd.config.ControllersAutoConfiguration
+com.enthuzd.config.ApplicationLifeCycleConfig
